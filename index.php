@@ -3,7 +3,7 @@
  * GrassMaterial 是一只基于MDUI设计框架的Typecho主题喵～（一度妥协，虽然我也不想重复造轮子（
  * 
  * @package GrassMaterial
- * @author Grass_block
+ * @author Grass_block KuoHuanHuan
  * @version 1.0.0 Pre
  * @link https://blog.acfk.xyz/
  */
@@ -35,6 +35,6 @@ account_circle
     </div>
   </div>
 <?php endwhile; ?>
-	
+<span> </span>	
 </main>
 	<?php $this->need('footer.php'); ?>
