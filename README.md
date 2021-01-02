@@ -6,3 +6,4 @@ A beautiful and simple Material Design Typecho Theme with MDUI.
 
 ## 支持
 [Telegram 群](https://t.me/GrassMaterial)
+WeChat群 輸入 6688
