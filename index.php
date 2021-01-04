@@ -4,10 +4,8 @@
  * 
  * @package GrassMaterial
  * @author Grass_block
- * @author KuoHuanHuan
  * @version 1.0 Pre-Release
  * @link https://blog.acfk.xyz/
- * @link https://kuohuanhuan.me/
  */
 $this->need('header.php');?>
 	<!DOCTYPE HTML>
