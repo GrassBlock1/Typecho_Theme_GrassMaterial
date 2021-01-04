@@ -3,9 +3,11 @@
  * GrassMaterial 是一只基于MDUI设计框架的Typecho主题喵～（一度妥协，虽然我也不想重复造轮子（
  * 
  * @package GrassMaterial
- * @author Grass_block KuoHuanHuan
- * @version 1.0.0 Pre
+ * @author Grass_block
+ * @author KuoHuanHuan
+ * @version 1.0 Pre-Release
  * @link https://blog.acfk.xyz/
+ * @link https://kuohuanhuan.me/
  */
 $this->need('header.php');?>
 	<!DOCTYPE HTML>
