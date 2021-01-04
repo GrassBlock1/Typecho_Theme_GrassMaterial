@@ -38,3 +38,6 @@ account_circle
 <span> </span>	
 </main>
 	<?php $this->need('footer.php'); ?>
+  <!--[if lt IE 9]>
+<h1>本站不支持IE的说...请下载其他浏览器，<a href="https://www.mozilla.org/zh-CN/firefox/new/">Mozilla Firefox似乎不错？</a></h1>
+  <![endif]-->
