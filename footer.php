@@ -19,7 +19,8 @@
 </script>
 <!-- 一言 -->
     &copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a>.
-    <?php _e('由 <a href="http://www.typecho.org">Typecho</a> 强力驱动'); ?>.
+    <?php _e('由 <a href="http://www.typecho.org">Typecho</a> 和 <a href="https://github.com/GrassBlock1/Typecho_Theme_GrassMaterial">GrassMaterial</a> 强力驱动'); ?>.
+    <?php _e('主题作者：草方块，部分套件由KuoHuanHuan Studio创建'); ?>.
 </footer><!-- end #footer -->
 <!-- 加载提示 -->
 <loader>
