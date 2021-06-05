@@ -1,4 +1,4 @@
-# GrassMaterial ！！未完成，！！
+# GrassMaterial ！！未完成，中！！
 ## 介绍
 GrassMaterial 是一只基于MDUI设计框架的Typecho主题
 
