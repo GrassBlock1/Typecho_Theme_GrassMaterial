@@ -1,5 +1,5 @@
 <?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
-<!DOCTYPE HTML>
+<!DOCTYPE HTML><!-- standard -->
 <html>
 <head>
 	<meta charset="<?php $this->options->charset(); ?>">
@@ -20,14 +20,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Material+Icons+Outlined"
       rel="stylesheet">
   <!--引入Material Icons 来自Google官方 官方的速度还可以-->
-  	
-  <!-- MDUI CSS -->
-<link rel='stylesheet' id='mdx_mdui_css-css'  href='https://wp.acfk.xyz/wp-content/themes/mdx/mdui/css/mdui.min.css?ver=1.9.10.e138fba' type='text/css' media='all' />
-<link rel='stylesheet' id='mdx_style_css-css'  href='https://wp.acfk.xyz/wp-content/themes/mdx/style.css?ver=1.9.10.e138fba' type='text/css' media='all' />
-<link rel='stylesheet' id='mdx_md2-css'  href='https://wp.acfk.xyz/wp-content/themes/mdx/css/md2.css?ver=1.9.10.e138fba' type='text/css' media='all' />
-<!-- MDUI JavaScript -->
-<script type='text/javascript' src='https://wp.acfk.xyz/wp-content/themes/mdx/mdui/js/mdui.min.js?ver=1.9.10.e138fba' id='mdx_mdui_js-js'></script>  		
-  <!--引入css&js基本框架（将来可能会添加选项选择资源地址。-->
+  		
+  <!--引入css&js基本框架（将来可能会添加选项选择资源地址。#坑-->
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
    <!--引入aplayer css&js 方便添加漂亮的播放器-->
@@ -65,4 +59,4 @@
 </div>
      <!--顶栏-->
 <div class="mdui-valign mdui-typo mdui-text-color-theme-text" style="padding-top: 125px ;"> <h1 class="mdui-center" style="padding-bottom: 125px ;";> <?php $this->options->description() ?></h1>
-</header>
+</header><!-- 20220202T2216 GMT+8 patched by KuoHuanHuan -->
