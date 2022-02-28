@@ -21,9 +21,9 @@ $this->need('header.php');?>
   src="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/js/mdui.min.js"
   integrity="sha384-gCMZcshYKOGRX9r6wbDrvF+TcCCswSHFucUzUPwka+Gr+uHgjlYvkABr95TCOz3A"
   crossorigin="anonymous"
-></script>		<!--标准开头-->
-			<br>
-				<br>
+></script>
+<br/>
+<br/>
 					
     <main class="main-content" id="main-content">
 					<?php while($this->next()): ?>
